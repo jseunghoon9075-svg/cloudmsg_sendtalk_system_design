@@ -40,7 +40,7 @@ Provider Router
 
 # 3. Database Design
 
-![erd](docs/erd.png)
+![erd](erd.png)
 
 주요 테이블
 
