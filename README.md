@@ -185,6 +185,8 @@ API 연결 테스트
 ---
   
 # 3. Provider Settings UI
+
+```json
 ┌──────────────────────────────────────────────┐
 │ Message Provider Settings                    │
 ├──────────────────────────────────────────────┤
@@ -215,6 +217,7 @@ Kakao Profile ID  [ my-kakao-channel ]
 [ Cancel ]                     [ Save Settings ]
 
 └──────────────────────────────────────────────┘
+```
 
 ---
 
